@@ -1,5 +1,5 @@
 - 👋 Hi, I’m John Mark Lappay
-- 👀 I’m interested in Data Analytics
+- 👀 I’m passionate about Data Science
 - 🌱 I’m currently learning the fundamentals of Exploratory Data Analysis (EDA), Data Cleaning and Data Wrangling, and Data Scraping
 - 📫 I can be contacted through my e-mail (jmj.lappay@gmail.com) or LinkedIn profile ( www.linkedin.com/in/jmj-lappay )
 
